@@ -1,0 +1,15 @@
+{
+  "name": "spacetime-project",
+  "version": "1.0.0",
+  "description": "rocketseat 2023",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node src/server.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.1.7",
+    "typescript": "^5.0.4"
+  }
+}
